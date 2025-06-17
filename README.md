@@ -1,1 +1,1 @@
-# Convert-RGB-to-Hexadecimal
+# Convert RGB to Hexadecimal
